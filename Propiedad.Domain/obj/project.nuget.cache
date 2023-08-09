@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "nmkAyjyUNItF6DBNY+PtKKmp8FVAvKnCaUe8K2Xj7Ge/br1HI8xzPSBH3DaRdpS9o2U1/6FwtFGxL+rSUiGQFQ==",
+  "success": true,
+  "projectFilePath": "D:\\Isa\\diplomado\\modulo2 Ing. Jose Carlos Gutierrez\\tareas\\Prjpropiedades\\Propiedad.Domain\\Propiedad.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\inina\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\inina\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\inina\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\inina\\.nuget\\packages\\restaurant.sharedkernel\\1.0.0\\restaurant.sharedkernel.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
