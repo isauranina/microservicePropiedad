@@ -1,0 +1,12 @@
+D:\Isa\diplomado\modulo3 Ing Jose Miguel Alvarez\mi avance\Prjpropiedades\Restaurant.SharedKernel\bin\Debug\net6.0\Restaurant.SharedKernel.deps.json
+D:\Isa\diplomado\modulo3 Ing Jose Miguel Alvarez\mi avance\Prjpropiedades\Restaurant.SharedKernel\bin\Debug\net6.0\Restaurant.SharedKernel.dll
+D:\Isa\diplomado\modulo3 Ing Jose Miguel Alvarez\mi avance\Prjpropiedades\Restaurant.SharedKernel\bin\Debug\net6.0\Restaurant.SharedKernel.pdb
+D:\Isa\diplomado\modulo3 Ing Jose Miguel Alvarez\mi avance\Prjpropiedades\Restaurant.SharedKernel\obj\Debug\net6.0\Restaurant.SharedKernel.csproj.AssemblyReference.cache
+D:\Isa\diplomado\modulo3 Ing Jose Miguel Alvarez\mi avance\Prjpropiedades\Restaurant.SharedKernel\obj\Debug\net6.0\Restaurant.SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Isa\diplomado\modulo3 Ing Jose Miguel Alvarez\mi avance\Prjpropiedades\Restaurant.SharedKernel\obj\Debug\net6.0\Restaurant.SharedKernel.AssemblyInfoInputs.cache
+D:\Isa\diplomado\modulo3 Ing Jose Miguel Alvarez\mi avance\Prjpropiedades\Restaurant.SharedKernel\obj\Debug\net6.0\Restaurant.SharedKernel.AssemblyInfo.cs
+D:\Isa\diplomado\modulo3 Ing Jose Miguel Alvarez\mi avance\Prjpropiedades\Restaurant.SharedKernel\obj\Debug\net6.0\Restaurant.SharedKernel.csproj.CoreCompileInputs.cache
+D:\Isa\diplomado\modulo3 Ing Jose Miguel Alvarez\mi avance\Prjpropiedades\Restaurant.SharedKernel\obj\Debug\net6.0\Restaurant.SharedKernel.dll
+D:\Isa\diplomado\modulo3 Ing Jose Miguel Alvarez\mi avance\Prjpropiedades\Restaurant.SharedKernel\obj\Debug\net6.0\refint\Restaurant.SharedKernel.dll
+D:\Isa\diplomado\modulo3 Ing Jose Miguel Alvarez\mi avance\Prjpropiedades\Restaurant.SharedKernel\obj\Debug\net6.0\Restaurant.SharedKernel.pdb
+D:\Isa\diplomado\modulo3 Ing Jose Miguel Alvarez\mi avance\Prjpropiedades\Restaurant.SharedKernel\obj\Debug\net6.0\ref\Restaurant.SharedKernel.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Isa\\diplomado\\modulo2 Ing. Jose Carlos Gutierrez\\tareas\\Prjpropiedades\\Propiedad.Domain\\Propiedad.Domain.csproj": {}
+    "D:\\Isa\\diplomado\\modulo3 Ing Jose Miguel Alvarez\\mi avance\\Back-propiedades\\microservicePropiedad\\Propiedad.Domain\\Propiedad.Domain.csproj": {}
   },
   "projects": {
-    "D:\\Isa\\diplomado\\modulo2 Ing. Jose Carlos Gutierrez\\tareas\\Prjpropiedades\\Propiedad.Domain\\Propiedad.Domain.csproj": {
+    "D:\\Isa\\diplomado\\modulo3 Ing Jose Miguel Alvarez\\mi avance\\Back-propiedades\\microservicePropiedad\\Propiedad.Domain\\Propiedad.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Isa\\diplomado\\modulo2 Ing. Jose Carlos Gutierrez\\tareas\\Prjpropiedades\\Propiedad.Domain\\Propiedad.Domain.csproj",
+        "projectUniqueName": "D:\\Isa\\diplomado\\modulo3 Ing Jose Miguel Alvarez\\mi avance\\Back-propiedades\\microservicePropiedad\\Propiedad.Domain\\Propiedad.Domain.csproj",
         "projectName": "Propiedad.Domain",
-        "projectPath": "D:\\Isa\\diplomado\\modulo2 Ing. Jose Carlos Gutierrez\\tareas\\Prjpropiedades\\Propiedad.Domain\\Propiedad.Domain.csproj",
+        "projectPath": "D:\\Isa\\diplomado\\modulo3 Ing Jose Miguel Alvarez\\mi avance\\Back-propiedades\\microservicePropiedad\\Propiedad.Domain\\Propiedad.Domain.csproj",
         "packagesPath": "C:\\Users\\inina\\.nuget\\packages\\",
-        "outputPath": "D:\\Isa\\diplomado\\modulo2 Ing. Jose Carlos Gutierrez\\tareas\\Prjpropiedades\\Propiedad.Domain\\obj\\",
+        "outputPath": "D:\\Isa\\diplomado\\modulo3 Ing Jose Miguel Alvarez\\mi avance\\Back-propiedades\\microservicePropiedad\\Propiedad.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

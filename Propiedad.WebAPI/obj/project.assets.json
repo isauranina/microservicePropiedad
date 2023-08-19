@@ -4044,11 +4044,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Isa\\diplomado\\modulo2 Ing. Jose Carlos Gutierrez\\tareas\\Prjpropiedades\\Propiedad.WebAPI\\Propiedad.WebAPI.csproj",
+      "projectUniqueName": "D:\\Isa\\diplomado\\modulo3 Ing Jose Miguel Alvarez\\mi avance\\Back-propiedades\\microservicePropiedad\\Propiedad.WebAPI\\Propiedad.WebAPI.csproj",
       "projectName": "Propiedad.WebAPI",
-      "projectPath": "D:\\Isa\\diplomado\\modulo2 Ing. Jose Carlos Gutierrez\\tareas\\Prjpropiedades\\Propiedad.WebAPI\\Propiedad.WebAPI.csproj",
+      "projectPath": "D:\\Isa\\diplomado\\modulo3 Ing Jose Miguel Alvarez\\mi avance\\Back-propiedades\\microservicePropiedad\\Propiedad.WebAPI\\Propiedad.WebAPI.csproj",
       "packagesPath": "C:\\Users\\inina\\.nuget\\packages\\",
-      "outputPath": "D:\\Isa\\diplomado\\modulo2 Ing. Jose Carlos Gutierrez\\tareas\\Prjpropiedades\\Propiedad.WebAPI\\obj\\",
+      "outputPath": "D:\\Isa\\diplomado\\modulo3 Ing Jose Miguel Alvarez\\mi avance\\Back-propiedades\\microservicePropiedad\\Propiedad.WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4068,8 +4068,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Isa\\diplomado\\modulo2 Ing. Jose Carlos Gutierrez\\tareas\\Prjpropiedades\\Propiedad.Infrastructure\\Propiedad.Infrastructure.csproj": {
-              "projectPath": "D:\\Isa\\diplomado\\modulo2 Ing. Jose Carlos Gutierrez\\tareas\\Prjpropiedades\\Propiedad.Infrastructure\\Propiedad.Infrastructure.csproj"
+            "D:\\Isa\\diplomado\\modulo3 Ing Jose Miguel Alvarez\\mi avance\\Back-propiedades\\microservicePropiedad\\Propiedad.Infrastructure\\Propiedad.Infrastructure.csproj": {
+              "projectPath": "D:\\Isa\\diplomado\\modulo3 Ing Jose Miguel Alvarez\\mi avance\\Back-propiedades\\microservicePropiedad\\Propiedad.Infrastructure\\Propiedad.Infrastructure.csproj"
             }
           }
         }
