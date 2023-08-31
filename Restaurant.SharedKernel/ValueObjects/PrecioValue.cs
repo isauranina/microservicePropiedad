@@ -5,6 +5,7 @@ namespace Restaurant.SharedKernel.ValueObjects;
 
 public record PrecioValue : ValueObject
 {
+    // min 1:50
     public decimal Value { get; }
     public PrecioValue(decimal value)
     {

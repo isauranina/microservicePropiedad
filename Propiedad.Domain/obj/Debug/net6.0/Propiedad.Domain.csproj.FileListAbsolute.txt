@@ -34,3 +34,15 @@ D:\Isa\diplomado\modulo2 Ing. Jose Carlos Gutierrez\tareas\Prjpropiedades\Propie
 D:\Isa\diplomado\modulo2 Ing. Jose Carlos Gutierrez\tareas\Prjpropiedades\Propiedad.Domain\obj\Debug\net6.0\refint\Propiedad.Domain.dll
 D:\Isa\diplomado\modulo2 Ing. Jose Carlos Gutierrez\tareas\Prjpropiedades\Propiedad.Domain\obj\Debug\net6.0\Propiedad.Domain.pdb
 D:\Isa\diplomado\modulo2 Ing. Jose Carlos Gutierrez\tareas\Prjpropiedades\Propiedad.Domain\obj\Debug\net6.0\ref\Propiedad.Domain.dll
+D:\Isa\diplomado\modulo3 Ing Jose Miguel Alvarez\mi avance\Back-propiedades\microservicePropiedad\Propiedad.Domain\bin\Debug\net6.0\Propiedad.Domain.deps.json
+D:\Isa\diplomado\modulo3 Ing Jose Miguel Alvarez\mi avance\Back-propiedades\microservicePropiedad\Propiedad.Domain\bin\Debug\net6.0\Propiedad.Domain.dll
+D:\Isa\diplomado\modulo3 Ing Jose Miguel Alvarez\mi avance\Back-propiedades\microservicePropiedad\Propiedad.Domain\bin\Debug\net6.0\Propiedad.Domain.pdb
+D:\Isa\diplomado\modulo3 Ing Jose Miguel Alvarez\mi avance\Back-propiedades\microservicePropiedad\Propiedad.Domain\obj\Debug\net6.0\Propiedad.Domain.csproj.AssemblyReference.cache
+D:\Isa\diplomado\modulo3 Ing Jose Miguel Alvarez\mi avance\Back-propiedades\microservicePropiedad\Propiedad.Domain\obj\Debug\net6.0\Propiedad.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Isa\diplomado\modulo3 Ing Jose Miguel Alvarez\mi avance\Back-propiedades\microservicePropiedad\Propiedad.Domain\obj\Debug\net6.0\Propiedad.Domain.AssemblyInfoInputs.cache
+D:\Isa\diplomado\modulo3 Ing Jose Miguel Alvarez\mi avance\Back-propiedades\microservicePropiedad\Propiedad.Domain\obj\Debug\net6.0\Propiedad.Domain.AssemblyInfo.cs
+D:\Isa\diplomado\modulo3 Ing Jose Miguel Alvarez\mi avance\Back-propiedades\microservicePropiedad\Propiedad.Domain\obj\Debug\net6.0\Propiedad.Domain.csproj.CoreCompileInputs.cache
+D:\Isa\diplomado\modulo3 Ing Jose Miguel Alvarez\mi avance\Back-propiedades\microservicePropiedad\Propiedad.Domain\obj\Debug\net6.0\Propiedad.Domain.dll
+D:\Isa\diplomado\modulo3 Ing Jose Miguel Alvarez\mi avance\Back-propiedades\microservicePropiedad\Propiedad.Domain\obj\Debug\net6.0\refint\Propiedad.Domain.dll
+D:\Isa\diplomado\modulo3 Ing Jose Miguel Alvarez\mi avance\Back-propiedades\microservicePropiedad\Propiedad.Domain\obj\Debug\net6.0\Propiedad.Domain.pdb
+D:\Isa\diplomado\modulo3 Ing Jose Miguel Alvarez\mi avance\Back-propiedades\microservicePropiedad\Propiedad.Domain\obj\Debug\net6.0\ref\Propiedad.Domain.dll

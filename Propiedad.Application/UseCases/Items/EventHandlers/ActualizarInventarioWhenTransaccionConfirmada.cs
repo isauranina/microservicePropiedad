@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace Propiedad.Application.UseCases.Items.EventHandlers;
 
-internal class ActualizarInventarioWhenTransaccionConfirmada
+public class ActualizarInventarioWhenTransaccionConfirmada
     : INotificationHandler<TransaccionConfirmada>
 {
     private readonly IItemRepository _itemRepository;

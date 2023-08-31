@@ -10,6 +10,7 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.1.0" />
+    <PackageReference Include="Moq" Version="4.20.69" />
     <PackageReference Include="xunit" Version="2.4.1" />
     <PackageReference Include="xunit.runner.visualstudio" Version="2.4.3">
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
@@ -22,11 +23,13 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Rules\" />
+    <ProjectReference Include="..\Propiedad.Application\Propiedad.Application.csproj" />
+    <ProjectReference Include="..\Propiedad.Domain\Propiedad.Domain.csproj" />
+    <ProjectReference Include="..\Restaurant.SharedKernel\Restaurant.SharedKernel.csproj" />
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Restaurant.SharedKernel\Restaurant.SharedKernel.csproj" />
+    <Folder Include="Application\UseCases\Propiedad\EventHandler\" />
   </ItemGroup>
 
 </Project>
