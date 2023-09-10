@@ -1,5 +1,7 @@
-﻿using Propiedad.Domain.Factories;
+﻿using Moq;
+using Propiedad.Domain.Factories;
 using Propiedad.Domain.Model.Items;
+using Propiedad.Domain.Repositories;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -25,5 +27,12 @@ namespace Propiedad.Test.Application.UseCases.Items.EventHandler
               new ItemFactory().Create("Item 3","I3")
             };
         }
+
+        public static ItembRepositoryStub getRepositoryImplementation()
+        {
+
+            return new ItembRepositoryStub(getItems());
+        }
+
     }
 }

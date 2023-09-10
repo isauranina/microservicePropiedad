@@ -10,6 +10,7 @@ namespace Propiedad.Domain.Repositories;
 
 public interface IItemRepository : IRepository<Item, Guid>
 {
+    //object GetAllItems();
     Task UpdateAsync(Item item);
 
 }
