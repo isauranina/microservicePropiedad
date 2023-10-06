@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Bh95AtMxOAbEYXj3u3UpORB5Dft0q0cyIcDj+8IEWi8YgRx730y/bJHn03cAao6Z+LQc3v465jsPJdgYHUCrUA==",
+  "dgSpecHash": "MyRfkzjpMk/PYni0ti3hPXo+XLYOeFLcS3Fu7z1VhLMt805vLNp0AIg1ld8zRG+nkUrUqKbK9hBAizix5rLwjQ==",
   "success": true,
-  "projectFilePath": "D:\\Isa\\diplomado\\modulo3 Ing Jose Miguel Alvarez\\mi avance\\Back-propiedades\\microservicePropiedad\\Propiedad.Infrastructure\\Propiedad.Infrastructure.csproj",
+  "projectFilePath": "D:\\Isa\\diplomado\\modulo4\\proyecto de repositorio\\microservicePropiedad\\Propiedad.Infrastructure\\Propiedad.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\inina\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\inina\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

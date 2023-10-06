@@ -55,3 +55,22 @@ D:\Isa\diplomado\modulo2 Ing. Jose Carlos Gutierrez\tareas\Prjpropiedades\Propie
 D:\Isa\diplomado\modulo2 Ing. Jose Carlos Gutierrez\tareas\Prjpropiedades\Propiedad.Infrastructure\obj\Debug\net6.0\Propiedad.Infrastructure.pdb
 D:\Isa\diplomado\modulo2 Ing. Jose Carlos Gutierrez\tareas\Prjpropiedades\Propiedad.Infrastructure\obj\Debug\net6.0\Propiedad.Infrastructure.genruntimeconfig.cache
 D:\Isa\diplomado\modulo2 Ing. Jose Carlos Gutierrez\tareas\Prjpropiedades\Propiedad.Infrastructure\obj\Debug\net6.0\ref\Propiedad.Infrastructure.dll
+D:\Isa\diplomado\modulo4\proyecto de repositorio\microservicePropiedad\Propiedad.Infrastructure\bin\Debug\net6.0\Propiedad.Infrastructure.deps.json
+D:\Isa\diplomado\modulo4\proyecto de repositorio\microservicePropiedad\Propiedad.Infrastructure\bin\Debug\net6.0\Propiedad.Infrastructure.runtimeconfig.json
+D:\Isa\diplomado\modulo4\proyecto de repositorio\microservicePropiedad\Propiedad.Infrastructure\bin\Debug\net6.0\Propiedad.Infrastructure.dll
+D:\Isa\diplomado\modulo4\proyecto de repositorio\microservicePropiedad\Propiedad.Infrastructure\bin\Debug\net6.0\Propiedad.Infrastructure.pdb
+D:\Isa\diplomado\modulo4\proyecto de repositorio\microservicePropiedad\Propiedad.Infrastructure\bin\Debug\net6.0\Propiedad.Application.dll
+D:\Isa\diplomado\modulo4\proyecto de repositorio\microservicePropiedad\Propiedad.Infrastructure\bin\Debug\net6.0\Propiedad.Domain.dll
+D:\Isa\diplomado\modulo4\proyecto de repositorio\microservicePropiedad\Propiedad.Infrastructure\bin\Debug\net6.0\Propiedad.Application.pdb
+D:\Isa\diplomado\modulo4\proyecto de repositorio\microservicePropiedad\Propiedad.Infrastructure\bin\Debug\net6.0\Propiedad.Domain.pdb
+D:\Isa\diplomado\modulo4\proyecto de repositorio\microservicePropiedad\Propiedad.Infrastructure\obj\Debug\net6.0\Propiedad.Infrastructure.csproj.AssemblyReference.cache
+D:\Isa\diplomado\modulo4\proyecto de repositorio\microservicePropiedad\Propiedad.Infrastructure\obj\Debug\net6.0\Propiedad.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Isa\diplomado\modulo4\proyecto de repositorio\microservicePropiedad\Propiedad.Infrastructure\obj\Debug\net6.0\Propiedad.Infrastructure.AssemblyInfoInputs.cache
+D:\Isa\diplomado\modulo4\proyecto de repositorio\microservicePropiedad\Propiedad.Infrastructure\obj\Debug\net6.0\Propiedad.Infrastructure.AssemblyInfo.cs
+D:\Isa\diplomado\modulo4\proyecto de repositorio\microservicePropiedad\Propiedad.Infrastructure\obj\Debug\net6.0\Propiedad.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Isa\diplomado\modulo4\proyecto de repositorio\microservicePropiedad\Propiedad.Infrastructure\obj\Debug\net6.0\Propiedad.Infrastructure.csproj.CopyComplete
+D:\Isa\diplomado\modulo4\proyecto de repositorio\microservicePropiedad\Propiedad.Infrastructure\obj\Debug\net6.0\Propiedad.Infrastructure.dll
+D:\Isa\diplomado\modulo4\proyecto de repositorio\microservicePropiedad\Propiedad.Infrastructure\obj\Debug\net6.0\refint\Propiedad.Infrastructure.dll
+D:\Isa\diplomado\modulo4\proyecto de repositorio\microservicePropiedad\Propiedad.Infrastructure\obj\Debug\net6.0\Propiedad.Infrastructure.pdb
+D:\Isa\diplomado\modulo4\proyecto de repositorio\microservicePropiedad\Propiedad.Infrastructure\obj\Debug\net6.0\Propiedad.Infrastructure.genruntimeconfig.cache
+D:\Isa\diplomado\modulo4\proyecto de repositorio\microservicePropiedad\Propiedad.Infrastructure\obj\Debug\net6.0\ref\Propiedad.Infrastructure.dll

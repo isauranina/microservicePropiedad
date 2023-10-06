@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A/epttHKHGVSCEZUqokSZN8rA5rVXfiGMf/qv43x4TyxbTv9ztO/4cchQSOVefoYrQ5vjpyp16F1sBWl/6bOJg==",
+  "dgSpecHash": "7tazrNq3vwWhoL8CqU7HoSnTaMyz/9ugjZ/7q3E27sjgQKmwNTE8ElpJfT8SQ4IfsHWChkY+1ZjlCeua2P2vDg==",
   "success": true,
-  "projectFilePath": "D:\\Isa\\diplomado\\modulo3 Ing Jose Miguel Alvarez\\mi avance\\Back-propiedades\\microservicePropiedad\\Propiedad.WebAPI\\Propiedad.WebAPI.csproj",
+  "projectFilePath": "D:\\Isa\\diplomado\\modulo4\\proyecto de repositorio\\microservicePropiedad\\Propiedad.WebAPI\\Propiedad.WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\inina\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\inina\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
@@ -42,6 +42,7 @@
     "C:\\Users\\inina\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\inina\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\inina\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
+    "C:\\Users\\inina\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512",
     "C:\\Users\\inina\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
     "C:\\Users\\inina\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
     "C:\\Users\\inina\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",

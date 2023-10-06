@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Isa\\diplomado\\modulo3 Ing Jose Miguel Alvarez\\mi avance\\Back-propiedades\\microservicePropiedad\\Restaurant.SharedKernel\\Restaurant.SharedKernel.csproj",
+      "projectUniqueName": "D:\\Isa\\diplomado\\modulo4\\proyecto de repositorio\\microservicePropiedad\\Restaurant.SharedKernel\\Restaurant.SharedKernel.csproj",
       "projectName": "Restaurant.SharedKernel",
-      "projectPath": "D:\\Isa\\diplomado\\modulo3 Ing Jose Miguel Alvarez\\mi avance\\Back-propiedades\\microservicePropiedad\\Restaurant.SharedKernel\\Restaurant.SharedKernel.csproj",
+      "projectPath": "D:\\Isa\\diplomado\\modulo4\\proyecto de repositorio\\microservicePropiedad\\Restaurant.SharedKernel\\Restaurant.SharedKernel.csproj",
       "packagesPath": "C:\\Users\\inina\\.nuget\\packages\\",
-      "outputPath": "D:\\Isa\\diplomado\\modulo3 Ing Jose Miguel Alvarez\\mi avance\\Back-propiedades\\microservicePropiedad\\Restaurant.SharedKernel\\obj\\",
+      "outputPath": "D:\\Isa\\diplomado\\modulo4\\proyecto de repositorio\\microservicePropiedad\\Restaurant.SharedKernel\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
