@@ -1,25 +1,28 @@
-#See https://aka.ms/containerfastmode to understand how Visual Studio uses this Dockerfile to build your images for faster debugging.
+#para descarcar el SDK
+FROM mcr.microsoft.com/dotnet/sdk:6.0 AS base
 
-FROM mcr.microsoft.com/dotnet/aspnet:6.0 AS base
+
+#mi directorio de trabajo
 WORKDIR /app
-EXPOSE 80
-EXPOSE 443
 
-FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
-WORKDIR /src
-COPY ["Propiedad.WebAPI/Propiedad.WebAPI.csproj", "Propiedad.WebAPI/"]
-COPY ["Propiedad.Infrastructure/Propiedad.Infrastructure.csproj", "Propiedad.Infrastructure/"]
-COPY ["Propiedad.Application/Propiedad.Application.csproj", "Propiedad.Application/"]
-COPY ["Propiedad.Domain/Propiedad.Domain.csproj", "Propiedad.Domain/"]
-RUN dotnet restore "Propiedad.WebAPI/Propiedad.WebAPI.csproj"
-COPY . .
-WORKDIR "/src/Propiedad.WebAPI"
-RUN dotnet build "Propiedad.WebAPI.csproj" -c Release -o /app/build
+#EXPOSE 8082
+#EXPOSE 5003
 
-FROM build AS publish
-RUN dotnet publish "Propiedad.WebAPI.csproj" -c Release -o /app/publish /p:UseAppHost=false
+#para que copie los archivos del proyecto y restaure las dependencias.
+COPY *.csproj ./
+RUN dotnet restore
 
-FROM base AS final
+#Copia los archivos restantes y cree la aplicación.
+COPY . ./
+RUN dotnet publish -c Release -o out
+
+#para que construya la imagen en tiempo de ejecución
+FROM mcr.microsoft.com/dotnet/aspnet:6.0 AS runtime-env
+
 WORKDIR /app
-COPY --from=publish /app/publish .
-ENTRYPOINT ["dotnet", "Propiedad.WebAPI.dll"]
+COPY --from=base /app/out .
+
+#estableciendo punto de entrada
+ENTRYPOINT ["dotnet", "MicroservicePropiedad.dll"]
+
+#para crear la imagen del contenedor ejecutar/ docker image build -t dotnet/demoServive .
