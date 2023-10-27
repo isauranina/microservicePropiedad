@@ -58,3 +58,15 @@ D:\Isa\diplomado\modulo4\proyecto de repositorio\microservicePropiedad\Propiedad
 D:\Isa\diplomado\modulo4\proyecto de repositorio\microservicePropiedad\Propiedad.Domain\obj\Debug\net6.0\refint\Propiedad.Domain.dll
 D:\Isa\diplomado\modulo4\proyecto de repositorio\microservicePropiedad\Propiedad.Domain\obj\Debug\net6.0\Propiedad.Domain.pdb
 D:\Isa\diplomado\modulo4\proyecto de repositorio\microservicePropiedad\Propiedad.Domain\obj\Debug\net6.0\ref\Propiedad.Domain.dll
+C:\sistemas\microservicePropiedad\microservicePropiedad_Luis\Propiedad.Domain\bin\Debug\net6.0\Propiedad.Domain.deps.json
+C:\sistemas\microservicePropiedad\microservicePropiedad_Luis\Propiedad.Domain\bin\Debug\net6.0\Propiedad.Domain.dll
+C:\sistemas\microservicePropiedad\microservicePropiedad_Luis\Propiedad.Domain\bin\Debug\net6.0\Propiedad.Domain.pdb
+C:\sistemas\microservicePropiedad\microservicePropiedad_Luis\Propiedad.Domain\obj\Debug\net6.0\Propiedad.Domain.csproj.AssemblyReference.cache
+C:\sistemas\microservicePropiedad\microservicePropiedad_Luis\Propiedad.Domain\obj\Debug\net6.0\Propiedad.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\sistemas\microservicePropiedad\microservicePropiedad_Luis\Propiedad.Domain\obj\Debug\net6.0\Propiedad.Domain.AssemblyInfoInputs.cache
+C:\sistemas\microservicePropiedad\microservicePropiedad_Luis\Propiedad.Domain\obj\Debug\net6.0\Propiedad.Domain.AssemblyInfo.cs
+C:\sistemas\microservicePropiedad\microservicePropiedad_Luis\Propiedad.Domain\obj\Debug\net6.0\Propiedad.Domain.csproj.CoreCompileInputs.cache
+C:\sistemas\microservicePropiedad\microservicePropiedad_Luis\Propiedad.Domain\obj\Debug\net6.0\Propiedad.Domain.dll
+C:\sistemas\microservicePropiedad\microservicePropiedad_Luis\Propiedad.Domain\obj\Debug\net6.0\refint\Propiedad.Domain.dll
+C:\sistemas\microservicePropiedad\microservicePropiedad_Luis\Propiedad.Domain\obj\Debug\net6.0\Propiedad.Domain.pdb
+C:\sistemas\microservicePropiedad\microservicePropiedad_Luis\Propiedad.Domain\obj\Debug\net6.0\ref\Propiedad.Domain.dll

@@ -12,7 +12,8 @@ services:
       context: .
       dockerfile: Dockerfile
     ports:
-      - "5050:5050"
+      - "8080:80"
+      - "8081:443"
     depends_on:
       - sqlserver
     networks:
@@ -23,9 +24,11 @@ services:
     cap_add: ["SYS_PTRACE"]
     environment:
       - "ACCEPT_EULA=1"
-      - "MSSQL_SA_PASSWORD=Clave**"
+      - "MSSQL_SA_PASSWORD=SU2orange!"
     ports:
       - "1433:1433"
     hostname: mssql
     volumes:
       - "mssql-azuresql-edge-data:/var/opt/mssql"
+    networks:
+      - nur-bnb-net

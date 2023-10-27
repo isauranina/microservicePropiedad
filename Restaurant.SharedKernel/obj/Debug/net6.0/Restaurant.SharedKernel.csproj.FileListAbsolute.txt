@@ -22,3 +22,14 @@ D:\Isa\diplomado\modulo3 Ing Jose Miguel Alvarez\mi avance\Back-propiedades\micr
 D:\Isa\diplomado\modulo3 Ing Jose Miguel Alvarez\mi avance\Back-propiedades\microservicePropiedad\Restaurant.SharedKernel\obj\Debug\net6.0\refint\Restaurant.SharedKernel.dll
 D:\Isa\diplomado\modulo3 Ing Jose Miguel Alvarez\mi avance\Back-propiedades\microservicePropiedad\Restaurant.SharedKernel\obj\Debug\net6.0\Restaurant.SharedKernel.pdb
 D:\Isa\diplomado\modulo3 Ing Jose Miguel Alvarez\mi avance\Back-propiedades\microservicePropiedad\Restaurant.SharedKernel\obj\Debug\net6.0\ref\Restaurant.SharedKernel.dll
+C:\sistemas\microservicePropiedad\microservicePropiedad_Luis\Restaurant.SharedKernel\bin\Debug\net6.0\Restaurant.SharedKernel.deps.json
+C:\sistemas\microservicePropiedad\microservicePropiedad_Luis\Restaurant.SharedKernel\bin\Debug\net6.0\Restaurant.SharedKernel.dll
+C:\sistemas\microservicePropiedad\microservicePropiedad_Luis\Restaurant.SharedKernel\bin\Debug\net6.0\Restaurant.SharedKernel.pdb
+C:\sistemas\microservicePropiedad\microservicePropiedad_Luis\Restaurant.SharedKernel\obj\Debug\net6.0\Restaurant.SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+C:\sistemas\microservicePropiedad\microservicePropiedad_Luis\Restaurant.SharedKernel\obj\Debug\net6.0\Restaurant.SharedKernel.AssemblyInfoInputs.cache
+C:\sistemas\microservicePropiedad\microservicePropiedad_Luis\Restaurant.SharedKernel\obj\Debug\net6.0\Restaurant.SharedKernel.AssemblyInfo.cs
+C:\sistemas\microservicePropiedad\microservicePropiedad_Luis\Restaurant.SharedKernel\obj\Debug\net6.0\Restaurant.SharedKernel.csproj.CoreCompileInputs.cache
+C:\sistemas\microservicePropiedad\microservicePropiedad_Luis\Restaurant.SharedKernel\obj\Debug\net6.0\Restaurant.SharedKernel.dll
+C:\sistemas\microservicePropiedad\microservicePropiedad_Luis\Restaurant.SharedKernel\obj\Debug\net6.0\refint\Restaurant.SharedKernel.dll
+C:\sistemas\microservicePropiedad\microservicePropiedad_Luis\Restaurant.SharedKernel\obj\Debug\net6.0\Restaurant.SharedKernel.pdb
+C:\sistemas\microservicePropiedad\microservicePropiedad_Luis\Restaurant.SharedKernel\obj\Debug\net6.0\ref\Restaurant.SharedKernel.dll

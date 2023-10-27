@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "D45KRQwiYwxr+37wLYZkVeywYBlXQ08AnyJRmvbB087SEteE9EOw524H3x1Pm+4/SlyHPREYEPJIcjv4mF4+Xw==",
+  "dgSpecHash": "kgE1Qi2QmJ29J0YxVCdQpdtZliHGi7P89yEP0D+WROGDeJZkep3GKdaIiDWumYcLCwwEcxMPA8yVyRJ4zNfwVA==",
   "success": true,
-  "projectFilePath": "D:\\Isa\\diplomado\\modulo4\\proyecto de repositorio\\microservicePropiedad\\Restaurant.SharedKernel\\Restaurant.SharedKernel.csproj",
+  "projectFilePath": "C:\\sistemas\\microservicePropiedad\\microservicePropiedad_Luis\\Restaurant.SharedKernel\\Restaurant.SharedKernel.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

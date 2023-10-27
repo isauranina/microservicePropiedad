@@ -4126,38 +4126,34 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\inina\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\inina\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Isa\\diplomado\\modulo4\\proyecto de repositorio\\microservicePropiedad\\Propiedad.WebAPI\\Propiedad.WebAPI.csproj",
+      "projectUniqueName": "C:\\sistemas\\microservicePropiedad\\microservicePropiedad_Luis\\Propiedad.WebAPI\\Propiedad.WebAPI.csproj",
       "projectName": "Propiedad.WebAPI",
-      "projectPath": "D:\\Isa\\diplomado\\modulo4\\proyecto de repositorio\\microservicePropiedad\\Propiedad.WebAPI\\Propiedad.WebAPI.csproj",
+      "projectPath": "C:\\sistemas\\microservicePropiedad\\microservicePropiedad_Luis\\Propiedad.WebAPI\\Propiedad.WebAPI.csproj",
       "packagesPath": "C:\\Users\\inina\\.nuget\\packages\\",
-      "outputPath": "D:\\Isa\\diplomado\\modulo4\\proyecto de repositorio\\microservicePropiedad\\Propiedad.WebAPI\\obj\\",
+      "outputPath": "C:\\sistemas\\microservicePropiedad\\microservicePropiedad_Luis\\Propiedad.WebAPI\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
         "C:\\Users\\inina\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Isa\\diplomado\\modulo4\\proyecto de repositorio\\microservicePropiedad\\Propiedad.Infrastructure\\Propiedad.Infrastructure.csproj": {
-              "projectPath": "D:\\Isa\\diplomado\\modulo4\\proyecto de repositorio\\microservicePropiedad\\Propiedad.Infrastructure\\Propiedad.Infrastructure.csproj"
+            "C:\\sistemas\\microservicePropiedad\\microservicePropiedad_Luis\\Propiedad.Infrastructure\\Propiedad.Infrastructure.csproj": {
+              "projectPath": "C:\\sistemas\\microservicePropiedad\\microservicePropiedad_Luis\\Propiedad.Infrastructure\\Propiedad.Infrastructure.csproj"
             }
           }
         }
@@ -4206,7 +4202,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

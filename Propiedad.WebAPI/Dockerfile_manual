@@ -1,5 +1,5 @@
 #para descarcar el SDK
-FROM mcr.microsoft.com/dotnet/sdk:6.0 AS base
+FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build-env
 
 
 #mi directorio de trabajo
@@ -12,17 +12,17 @@ WORKDIR /app
 COPY *.csproj ./
 RUN dotnet restore
 
-#Copia los archivos restantes y cree la aplicación.
+#Copia los archivos restantes y cree la aplicaciÃ³n.
 COPY . ./
 RUN dotnet publish -c Release -o out
 
-#para que construya la imagen en tiempo de ejecución
+#para que construya la imagen en tiempo de ejecuciÃ³n
 FROM mcr.microsoft.com/dotnet/aspnet:6.0 AS runtime-env
 
 WORKDIR /app
-COPY --from=base /app/out .
+COPY --from=build-env /app/out .
 
 #estableciendo punto de entrada
 ENTRYPOINT ["dotnet", "MicroservicePropiedad.dll"]
 
-#para crear la imagen del contenedor ejecutar/ docker image build -t dotnet/demoServive .
+#para crear la imagen del contenedor ejecutar/ docker build -t dotnet/demoServive .

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0F8MDiCQsRzSV+pAtl3vE0J2YIc5rQ/3Z7qBJZmFZJXNAAoKfndYqY+j8QSwrDB56B85kaF9oRivfgg2q8a8Gw==",
+  "dgSpecHash": "qsuVX2SSDcXivC30Jtl3OlUapEM/RQ1VQboH/RnBe9lrD6tfLIFvR4dTDRH9TWrO5hxuVc+6qJCkkSdhMKjn/A==",
   "success": true,
-  "projectFilePath": "D:\\Isa\\diplomado\\modulo4\\proyecto de repositorio\\microservicePropiedad\\Propiedad.Test\\Propiedad.Test.csproj",
+  "projectFilePath": "C:\\sistemas\\microservicePropiedad\\microservicePropiedad_Luis\\Propiedad.Test\\Propiedad.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\inina\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\inina\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",

@@ -135,30 +135,26 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\inina\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\inina\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Isa\\diplomado\\modulo4\\proyecto de repositorio\\microservicePropiedad\\Propiedad.Domain\\Propiedad.Domain.csproj",
+      "projectUniqueName": "C:\\sistemas\\microservicePropiedad\\microservicePropiedad_Luis\\Propiedad.Domain\\Propiedad.Domain.csproj",
       "projectName": "Propiedad.Domain",
-      "projectPath": "D:\\Isa\\diplomado\\modulo4\\proyecto de repositorio\\microservicePropiedad\\Propiedad.Domain\\Propiedad.Domain.csproj",
+      "projectPath": "C:\\sistemas\\microservicePropiedad\\microservicePropiedad_Luis\\Propiedad.Domain\\Propiedad.Domain.csproj",
       "packagesPath": "C:\\Users\\inina\\.nuget\\packages\\",
-      "outputPath": "D:\\Isa\\diplomado\\modulo4\\proyecto de repositorio\\microservicePropiedad\\Propiedad.Domain\\obj\\",
+      "outputPath": "C:\\sistemas\\microservicePropiedad\\microservicePropiedad_Luis\\Propiedad.Domain\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
         "C:\\Users\\inina\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -202,7 +198,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

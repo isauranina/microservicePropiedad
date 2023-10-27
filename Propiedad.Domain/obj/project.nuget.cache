@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B/wJ7r7FG7Efw1IqjlbYPPCkCLfvzd6lbYnQwmJaIE6SL4OGOG4VEnS2kMiglr6T3/++b9yqnqBa9GdRA+k6xw==",
+  "dgSpecHash": "X+EkRla1Huk6EYwZyJCbLaPgX2MDAkCAhqtsP0Bs8QMUg/gJci4vyrzxeOEQcwsdHbL7sdagOdUoHUqJHkKggw==",
   "success": true,
-  "projectFilePath": "D:\\Isa\\diplomado\\modulo4\\proyecto de repositorio\\microservicePropiedad\\Propiedad.Domain\\Propiedad.Domain.csproj",
+  "projectFilePath": "C:\\sistemas\\microservicePropiedad\\microservicePropiedad_Luis\\Propiedad.Domain\\Propiedad.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\inina\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
     "C:\\Users\\inina\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",

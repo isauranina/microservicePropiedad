@@ -73,3 +73,18 @@ D:\Isa\diplomado\modulo4\proyecto de repositorio\microservicePropiedad\Propiedad
 D:\Isa\diplomado\modulo4\proyecto de repositorio\microservicePropiedad\Propiedad.Application\obj\Debug\net6.0\refint\Propiedad.Application.dll
 D:\Isa\diplomado\modulo4\proyecto de repositorio\microservicePropiedad\Propiedad.Application\obj\Debug\net6.0\Propiedad.Application.pdb
 D:\Isa\diplomado\modulo4\proyecto de repositorio\microservicePropiedad\Propiedad.Application\obj\Debug\net6.0\ref\Propiedad.Application.dll
+C:\sistemas\microservicePropiedad\microservicePropiedad_Luis\Propiedad.Application\bin\Debug\net6.0\Propiedad.Application.deps.json
+C:\sistemas\microservicePropiedad\microservicePropiedad_Luis\Propiedad.Application\bin\Debug\net6.0\Propiedad.Application.dll
+C:\sistemas\microservicePropiedad\microservicePropiedad_Luis\Propiedad.Application\bin\Debug\net6.0\Propiedad.Application.pdb
+C:\sistemas\microservicePropiedad\microservicePropiedad_Luis\Propiedad.Application\bin\Debug\net6.0\Propiedad.Domain.dll
+C:\sistemas\microservicePropiedad\microservicePropiedad_Luis\Propiedad.Application\bin\Debug\net6.0\Propiedad.Domain.pdb
+C:\sistemas\microservicePropiedad\microservicePropiedad_Luis\Propiedad.Application\obj\Debug\net6.0\Propiedad.Application.csproj.AssemblyReference.cache
+C:\sistemas\microservicePropiedad\microservicePropiedad_Luis\Propiedad.Application\obj\Debug\net6.0\Propiedad.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\sistemas\microservicePropiedad\microservicePropiedad_Luis\Propiedad.Application\obj\Debug\net6.0\Propiedad.Application.AssemblyInfoInputs.cache
+C:\sistemas\microservicePropiedad\microservicePropiedad_Luis\Propiedad.Application\obj\Debug\net6.0\Propiedad.Application.AssemblyInfo.cs
+C:\sistemas\microservicePropiedad\microservicePropiedad_Luis\Propiedad.Application\obj\Debug\net6.0\Propiedad.Application.csproj.CoreCompileInputs.cache
+C:\sistemas\microservicePropiedad\microservicePropiedad_Luis\Propiedad.Application\obj\Debug\net6.0\Propiedad.Application.csproj.CopyComplete
+C:\sistemas\microservicePropiedad\microservicePropiedad_Luis\Propiedad.Application\obj\Debug\net6.0\Propiedad.Application.dll
+C:\sistemas\microservicePropiedad\microservicePropiedad_Luis\Propiedad.Application\obj\Debug\net6.0\refint\Propiedad.Application.dll
+C:\sistemas\microservicePropiedad\microservicePropiedad_Luis\Propiedad.Application\obj\Debug\net6.0\Propiedad.Application.pdb
+C:\sistemas\microservicePropiedad\microservicePropiedad_Luis\Propiedad.Application\obj\Debug\net6.0\ref\Propiedad.Application.dll

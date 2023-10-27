@@ -74,3 +74,22 @@ D:\Isa\diplomado\modulo4\proyecto de repositorio\microservicePropiedad\Propiedad
 D:\Isa\diplomado\modulo4\proyecto de repositorio\microservicePropiedad\Propiedad.Infrastructure\obj\Debug\net6.0\Propiedad.Infrastructure.pdb
 D:\Isa\diplomado\modulo4\proyecto de repositorio\microservicePropiedad\Propiedad.Infrastructure\obj\Debug\net6.0\Propiedad.Infrastructure.genruntimeconfig.cache
 D:\Isa\diplomado\modulo4\proyecto de repositorio\microservicePropiedad\Propiedad.Infrastructure\obj\Debug\net6.0\ref\Propiedad.Infrastructure.dll
+C:\sistemas\microservicePropiedad\microservicePropiedad_Luis\Propiedad.Infrastructure\bin\Debug\net6.0\Propiedad.Infrastructure.deps.json
+C:\sistemas\microservicePropiedad\microservicePropiedad_Luis\Propiedad.Infrastructure\bin\Debug\net6.0\Propiedad.Infrastructure.runtimeconfig.json
+C:\sistemas\microservicePropiedad\microservicePropiedad_Luis\Propiedad.Infrastructure\bin\Debug\net6.0\Propiedad.Infrastructure.dll
+C:\sistemas\microservicePropiedad\microservicePropiedad_Luis\Propiedad.Infrastructure\bin\Debug\net6.0\Propiedad.Infrastructure.pdb
+C:\sistemas\microservicePropiedad\microservicePropiedad_Luis\Propiedad.Infrastructure\bin\Debug\net6.0\Propiedad.Application.dll
+C:\sistemas\microservicePropiedad\microservicePropiedad_Luis\Propiedad.Infrastructure\bin\Debug\net6.0\Propiedad.Domain.dll
+C:\sistemas\microservicePropiedad\microservicePropiedad_Luis\Propiedad.Infrastructure\bin\Debug\net6.0\Propiedad.Application.pdb
+C:\sistemas\microservicePropiedad\microservicePropiedad_Luis\Propiedad.Infrastructure\bin\Debug\net6.0\Propiedad.Domain.pdb
+C:\sistemas\microservicePropiedad\microservicePropiedad_Luis\Propiedad.Infrastructure\obj\Debug\net6.0\Propiedad.Infrastructure.csproj.AssemblyReference.cache
+C:\sistemas\microservicePropiedad\microservicePropiedad_Luis\Propiedad.Infrastructure\obj\Debug\net6.0\Propiedad.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\sistemas\microservicePropiedad\microservicePropiedad_Luis\Propiedad.Infrastructure\obj\Debug\net6.0\Propiedad.Infrastructure.AssemblyInfoInputs.cache
+C:\sistemas\microservicePropiedad\microservicePropiedad_Luis\Propiedad.Infrastructure\obj\Debug\net6.0\Propiedad.Infrastructure.AssemblyInfo.cs
+C:\sistemas\microservicePropiedad\microservicePropiedad_Luis\Propiedad.Infrastructure\obj\Debug\net6.0\Propiedad.Infrastructure.csproj.CoreCompileInputs.cache
+C:\sistemas\microservicePropiedad\microservicePropiedad_Luis\Propiedad.Infrastructure\obj\Debug\net6.0\Propiedad.Infrastructure.csproj.CopyComplete
+C:\sistemas\microservicePropiedad\microservicePropiedad_Luis\Propiedad.Infrastructure\obj\Debug\net6.0\Propiedad.Infrastructure.dll
+C:\sistemas\microservicePropiedad\microservicePropiedad_Luis\Propiedad.Infrastructure\obj\Debug\net6.0\refint\Propiedad.Infrastructure.dll
+C:\sistemas\microservicePropiedad\microservicePropiedad_Luis\Propiedad.Infrastructure\obj\Debug\net6.0\Propiedad.Infrastructure.pdb
+C:\sistemas\microservicePropiedad\microservicePropiedad_Luis\Propiedad.Infrastructure\obj\Debug\net6.0\Propiedad.Infrastructure.genruntimeconfig.cache
+C:\sistemas\microservicePropiedad\microservicePropiedad_Luis\Propiedad.Infrastructure\obj\Debug\net6.0\ref\Propiedad.Infrastructure.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7tazrNq3vwWhoL8CqU7HoSnTaMyz/9ugjZ/7q3E27sjgQKmwNTE8ElpJfT8SQ4IfsHWChkY+1ZjlCeua2P2vDg==",
+  "dgSpecHash": "LAbmTXeSzZFwZ1Xv8qxuz9CHjGzhe5ij7xW0W2cNPuEaZy+xdWfw5rpA0wmYaweMnvU8YlE775h50xTgG54c2g==",
   "success": true,
-  "projectFilePath": "D:\\Isa\\diplomado\\modulo4\\proyecto de repositorio\\microservicePropiedad\\Propiedad.WebAPI\\Propiedad.WebAPI.csproj",
+  "projectFilePath": "C:\\sistemas\\microservicePropiedad\\microservicePropiedad_Luis\\Propiedad.WebAPI\\Propiedad.WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\inina\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\inina\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
