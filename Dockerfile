@@ -22,4 +22,4 @@ RUN dotnet publish "Propiedad.WebAPI.csproj" -c Release -o /app/publish /p:UseAp
 FROM base AS final
 WORKDIR /app
 COPY --from=publish /app/publish .
-ENTRYPOINT ["dotnet", "Propiedad.WebAPI.dll"]
+ENTRYPOINT ["dotnet", "Propiedad.WebAPI.dll"] 
