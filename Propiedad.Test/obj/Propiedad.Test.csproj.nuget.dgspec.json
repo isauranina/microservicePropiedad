@@ -1,0 +1,288 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\sistemas\\microservicePropiedad\\microservicePropiedad_Luis\\Propiedad.Test\\Propiedad.Test.csproj": {}
+  },
+  "projects": {
+    "C:\\sistemas\\microservicePropiedad\\microservicePropiedad_Luis\\Propiedad.Application\\Propiedad.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\sistemas\\microservicePropiedad\\microservicePropiedad_Luis\\Propiedad.Application\\Propiedad.Application.csproj",
+        "projectName": "Propiedad.Application",
+        "projectPath": "C:\\sistemas\\microservicePropiedad\\microservicePropiedad_Luis\\Propiedad.Application\\Propiedad.Application.csproj",
+        "packagesPath": "C:\\Users\\inina\\.nuget\\packages\\",
+        "outputPath": "C:\\sistemas\\microservicePropiedad\\microservicePropiedad_Luis\\Propiedad.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\inina\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\sistemas\\microservicePropiedad\\microservicePropiedad_Luis\\Propiedad.Domain\\Propiedad.Domain.csproj": {
+                "projectPath": "C:\\sistemas\\microservicePropiedad\\microservicePropiedad_Luis\\Propiedad.Domain\\Propiedad.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\sistemas\\microservicePropiedad\\microservicePropiedad_Luis\\Propiedad.Domain\\Propiedad.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\sistemas\\microservicePropiedad\\microservicePropiedad_Luis\\Propiedad.Domain\\Propiedad.Domain.csproj",
+        "projectName": "Propiedad.Domain",
+        "projectPath": "C:\\sistemas\\microservicePropiedad\\microservicePropiedad_Luis\\Propiedad.Domain\\Propiedad.Domain.csproj",
+        "packagesPath": "C:\\Users\\inina\\.nuget\\packages\\",
+        "outputPath": "C:\\sistemas\\microservicePropiedad\\microservicePropiedad_Luis\\Propiedad.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\inina\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            },
+            "Restaurant.SharedKernel": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\sistemas\\microservicePropiedad\\microservicePropiedad_Luis\\Propiedad.Test\\Propiedad.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\sistemas\\microservicePropiedad\\microservicePropiedad_Luis\\Propiedad.Test\\Propiedad.Test.csproj",
+        "projectName": "Propiedad.Test",
+        "projectPath": "C:\\sistemas\\microservicePropiedad\\microservicePropiedad_Luis\\Propiedad.Test\\Propiedad.Test.csproj",
+        "packagesPath": "C:\\Users\\inina\\.nuget\\packages\\",
+        "outputPath": "C:\\sistemas\\microservicePropiedad\\microservicePropiedad_Luis\\Propiedad.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\inina\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\sistemas\\microservicePropiedad\\microservicePropiedad_Luis\\Propiedad.Application\\Propiedad.Application.csproj": {
+                "projectPath": "C:\\sistemas\\microservicePropiedad\\microservicePropiedad_Luis\\Propiedad.Application\\Propiedad.Application.csproj"
+              },
+              "C:\\sistemas\\microservicePropiedad\\microservicePropiedad_Luis\\Propiedad.Domain\\Propiedad.Domain.csproj": {
+                "projectPath": "C:\\sistemas\\microservicePropiedad\\microservicePropiedad_Luis\\Propiedad.Domain\\Propiedad.Domain.csproj"
+              },
+              "C:\\sistemas\\microservicePropiedad\\microservicePropiedad_Luis\\Restaurant.SharedKernel\\Restaurant.SharedKernel.csproj": {
+                "projectPath": "C:\\sistemas\\microservicePropiedad\\microservicePropiedad_Luis\\Restaurant.SharedKernel\\Restaurant.SharedKernel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.1.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.69, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\sistemas\\microservicePropiedad\\microservicePropiedad_Luis\\Restaurant.SharedKernel\\Restaurant.SharedKernel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\sistemas\\microservicePropiedad\\microservicePropiedad_Luis\\Restaurant.SharedKernel\\Restaurant.SharedKernel.csproj",
+        "projectName": "Restaurant.SharedKernel",
+        "projectPath": "C:\\sistemas\\microservicePropiedad\\microservicePropiedad_Luis\\Restaurant.SharedKernel\\Restaurant.SharedKernel.csproj",
+        "packagesPath": "C:\\Users\\inina\\.nuget\\packages\\",
+        "outputPath": "C:\\sistemas\\microservicePropiedad\\microservicePropiedad_Luis\\Restaurant.SharedKernel\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\inina\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
