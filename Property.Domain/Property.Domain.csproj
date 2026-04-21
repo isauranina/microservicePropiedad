@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Model\Categorias\**" />
+    <Compile Remove="Model\Marcas\**" />
+    <EmbeddedResource Remove="Model\Categorias\**" />
+    <EmbeddedResource Remove="Model\Marcas\**" />
+    <None Remove="Model\Categorias\**" />
+    <None Remove="Model\Marcas\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MediatR" Version="12.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Property.SharedKernel\Property.SharedKernel.csproj" />
+  </ItemGroup>
+
+</Project>
